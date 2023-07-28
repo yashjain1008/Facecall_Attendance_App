@@ -6,3 +6,5 @@ Then go to Face-App folder, open terminal and type npm start, then open web app 
 The project will start working.
 Python code is in yj.py file. It is the file that will recognise face of student, authenticate user andd mark attendance.
 Web app has been created using Reacts, code has been found in Face-App folder.
+You can view the site without executing project using link https://yjfacerecog.netlify.app/
+But to mark attendance you have to atleast run yj.py on your pc.
